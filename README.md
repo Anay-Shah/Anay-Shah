@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anayshah29@gmail.com**
 
-- ⚡ Fun fact **I want to take my badminton hobby to the next level and play for a local club and compete**
+- ⚡ Fun fact **I want to take my badminton hobby to a higher level and play for a local club and compete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
