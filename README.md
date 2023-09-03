@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Personal Portfolio Website**
 
-- 🌱 I’m currently learning **Data Structures in Java**
+- 🌱 I’m currently learning **Machine Learning in Python**
 
 - 📫 How to reach me **anayshah29@gmail.com**
 
