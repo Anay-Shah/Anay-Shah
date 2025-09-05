@@ -18,9 +18,8 @@
 ### Currently
 - 💼 Software Development Engineer @ **Inclusive Media and Design Centre**  
 - 🌱 Exploring **Machine Learning & Cloud Development**  
-- 👯 Open to collaborating on **AI, Mobile, or Accessibility-focused projects**  
 - 🧑‍💻 Past internships at **Citi Freight Logistics** and **Orient Technologies**  
-- ⚡ Fun fact: I want to take my **badminton hobby** to the next level 🏸  
+- ⚡ Fun fact: I want to take my **badminton hobby** to the next level and compete in amateur tournaments🏸  
 
 ---
 
