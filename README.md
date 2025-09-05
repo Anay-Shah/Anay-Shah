@@ -1,27 +1,85 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Anay Shah</h1>
-<h3 align="center">2nd Year Computer Science Student</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<h3 align="center">4th Year Computer Science Student | Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anay-shah&label=Profile%20views&color=0e75b6&style=flat" alt="anay-shah" /> </p>
+---
 
-- 🔭 I’m currently working on a **Personal Portfolio Website**
+## 🧐 About
 
-- 🌱 I’m currently learning **Machine Learning in Python**
+<h3 align="center">
+  4th Year Computer Science Student at Toronto Metropolitan University 🎓 <br>
+  Passionate about AI, Mobile Development, and Full-Stack Engineering 🚀
+</h3>
 
-- 📫 How to reach me **anayshah29@gmail.com**
+<br>
 
-- ⚡ Fun fact **I want to take my badminton hobby to a higher level and play for a local club and compete**
+<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anay--shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anay--shah" height="30" width="40" /></a>
+### Currently
+- 💼 Software Development Engineer @ **Inclusive Media and Design Centre**  
+- 🌱 Exploring **Machine Learning & Cloud Development**  
+- 👯 Open to collaborating on **AI, Mobile, or Accessibility-focused projects**  
+- 🧑‍💻 Past internships at **Citi Freight Logistics** and **Orient Technologies**  
+- ⚡ Fun fact: I want to take my **badminton hobby** to the next level 🏸  
+
+---
+
+## ▶ Connect with me
+<p>
+  <a href="https://linkedin.com/in/anaycshah" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anayshah29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-222222?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Anay-Shah" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anay-shah&show_icons=true&locale=en&layout=compact" alt="anay-shah" /></p>
+## ▶ Languages and Tools
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Frameworks</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Databases</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  </kbd>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anay-shah&show_icons=true&locale=en" alt="anay-shah" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anay-shah&" alt="anay-shah" /></p>
+## ▶ Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay-Shah&layout=compact&theme=github_dark&langs_count=10" height="160"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anay-Shah&count_private=true&show_icons=true&theme=github_dark" height="160"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anay-Shah&theme=holi-theme" height="160"/>
+</p>
